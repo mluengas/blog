@@ -5,6 +5,8 @@ date: 2017-04-13
 tags: ["finanzas personales", "ahorro", "inversiones", "tiempo"]
 ---
 
+*Este es un artículo de mi blog anterior. Está escrito con "tú" en vez de "vos". Es porque quería convertirme en "ponzibro". Mirá mi rolex masivo.*
+
 ## El dinero esclavo vs. el dinero esclavizante
 
 Una de las cosas que más me motiva a ahorrar es pensar que el dinero es tiempo.
