@@ -1,9 +1,9 @@
 ---js
 const eleventyNavigation = {
-	key: "About",
+	key: "Sobre mí",
 	order: 3
 };
 ---
-# About
+# Sobre mí
 
-I am a person that writes stuff.
+Es imprescindible que todas las personas que generan riqueza tengan el conocimiento necesario para retener esa riqueza, multiplicarla y usarla como le de la gana en el futuro.
