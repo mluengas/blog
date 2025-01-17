@@ -65,7 +65,7 @@ export default async function(eleventyConfig) {
 			language: "es",
 			title: "Fulan",
 			subtitle: "Escribo sobre inversiones y finanzas personales.",
-			base: "https://mluengas.github.io",
+			base: "https://fulan.me",
 			author: {
 				name: "Cosme Fulanito"
 			}
