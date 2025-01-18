@@ -4,41 +4,82 @@ description: "La habilidad para manejar nuestras emociones juega un papel determ
 date: 2019-01-26
 tags: ["inversiones", "finanzas personales", "estrategias"]
 ---
+
+## La conexión entre emociones y éxito financiero
+
 La habilidad para manejar nuestras emociones juega un papel determinante en nuestro éxito.
+
+---
+
+### Una estrategia realista para invertir
 
 La estrategia que yo propongo supone que en algún momento nuestras inversiones van a bajar de valor considerablemente. Ray Dalio (el Messi de las inversiones) dice que cualquiera sea tu inversión favorita, en algún punto de tu vida, tenés que contar con que pierda entre un 50% y un 70% de su valor. Es lo que pasó, por ejemplo, en 2008 con la crisis de las hipotecas.
 
-Uno de cada cuatro años, el mercado de acciones baja. Del lado del vaso medio lleno, tres de cada cuatro años el mercado sube. 75% de probabilidades de ganar dinero no está mal. Pero no es suficiente porque la idea es, en primer lugar, no perder plata y en segundo lugar, hacer crecer nuestros ahorros. Ahora, si nuestro horizonte de inversión es de 5 años, tenemos un 90% de probabilidades de ganar plata en el mercado de acciones. Si ese horizonte los alargamos hasta 10 años, la probabilidad aumenta hasta casi un 100% (un poco más de 99%).
+> **Dato interesante:** Uno de cada cuatro años, el mercado de acciones baja. Sin embargo, tres de cada cuatro años el mercado sube.  
+**Probabilidades:**  
+- 75% de ganar dinero en un año.  
+- 90% de ganar dinero con un horizonte de 5 años.  
+- Casi 100% de probabilidades de obtener retornos positivos con un horizonte de 10 años.
 
-Con esta información, datos de la realidad, nos podríamos preguntar porqué hay gente que pierde plata invirtiendo o le parece que invertir en acciones es demasiado riesgoso. Hay dos respuestas a esa pregunta que a mí me generan una indignación tal que prácticamente dieron vida a este blog.
+---
 
-1. Nosotros mismos nos asustamos y tomamos malas decisiones como vender cuando el mercado está en baja y/o compramos cuando el mercado está cerca de sus picos.
-2. Confiamos en un “profesional” de las inversiones, un asesor que nos vende que es Messi, nos cobra como si fuera Messi pero en realidad es Bracamonte.
+### ¿Por qué la gente pierde dinero invirtiendo?
 
+A pesar de las probabilidades, muchas personas pierden dinero invirtiendo. ¿Por qué?
+
+1. **Miedo:** Nos asustamos y tomamos malas decisiones como vender cuando el mercado baja o comprar en los picos.  
+2. **Asesores poco efectivos:** Confiamos en supuestos “profesionales” que nos venden ilusiones, nos cobran caro, pero no entregan resultados.
+
+#### El peligro de vender durante correcciones
 El que se asusta por las correcciones del mercado y vende sus activos, pierde el juego.
 
-La mayoría de las bajas en el mercado son correcciones, bajas momentáneas que duran en promedio menos de dos meses. Solo el 20% de esas correcciones se transforman en “bear markets”.
+- **Correcciones:** Bajas momentáneas que duran, en promedio, menos de dos meses.  
+- **Bear markets:** Solo el 20% de las correcciones se convierten en mercados bajistas.  
+- **Consecuencia de salir del mercado:** Perderse los mejores días de trading, que usualmente ocurren justo después de las grandes correcciones.
 
-El que sale del mercado se expone a perderse los mejores días de trading que, justamente, ocurren luego de una corrección importante. El mercado de acciones sube en promedio un 8% anual. Si nos asustamos, corremos el riesgo de que ese 8% sea mucho menor.
+---
 
-Esto es lo que escribe Peter Mallouk al respecto en el libro “Unshakeable” que escribió junto a Tony Robbins:
+### Ejemplo: Impacto de perder días clave en el mercado
 
-> “Si te perdiste los mejores 20 días de trading, tu retorno se redujo de 8,2% a un mísero 2,1%. ¿Y si te perdiste los 30 mejores días de trading? ¡Tus retornos se esfumaron en el aire, cayendo hasta cero! Mientras tanto, un estudio de JP Morgan encontró que 6 de los 10 mejores días en el mercado en los últimos 20 años ocurrieron dentro de las dos semanas de los 10 peores días. La moraleja: si te asustaste y vendiste en el momento equivocado, te perdiste los fabulosos días que siguieron, en los que los pacientes inversionistas obtuvieron casi todas sus ganancias. Desde 1996 hasta 2015, el S&P 500 devolvió un promedio de 8.2% al año. Pero si te perdiste los 10 mejores días de operaciones durante esos 20 años, tus ganancias disminuyeron a sólo 4.5% al año. ¿Podés creerlo? Tus ganancias se habrían reducido casi a la mitad si te hubieras perdido los 10 mejores días de operaciones en 20 años."
+Esto es lo que escribe Peter Mallouk en el libro *Unshakeable*, coescrito con Tony Robbins:
 
-Hay mucha gente que busca beneficiarse de conocer lo que el miedo a perder genera en nosotros.
+> **“Si te perdiste los mejores 20 días de trading, tu retorno se redujo de 8.2% a un mísero 2.1%. [...] Desde 1996 hasta 2015, el S&P 500 devolvió un promedio de 8.2% anual. Pero si te perdiste los 10 mejores días de operaciones, tus ganancias disminuyeron a 4.5% anual. Perder esos días clave puede destruir tu rendimiento.”**
 
-Los que escriben una nota en el diario sobre la mejor cartera de inversiones para el año electoral. Los que predicen que las acciones o los bonos argentinos van a derrumbarse. Los que relacionan un tuit de Trump con una caída general en el mercado. Prestarle atención a estas cosas es una pérdida de tiempo.
+---
 
-El que escribe esa nota no está pensando en que ganes plata en este año de “alta incertidumbre electoral”. Está pensando en cómo hacer para que la mayor cantidad de gente haga click en la nota, tener más tráfico y vender más publicidad. En definitiva, es un diario. Necesita lectores y el miedo vende. ¿Alguna vez viste a algún periodista hablar de certidumbre y estabilidad económica? No. El caos vende.
+### El miedo como herramienta de manipulación
 
-La buena noticia es que la mayoría de las veces no hay que hacer nada para lograr invertir como Neo y tener mejores resultados que el 85% de los profesionales de las inversiones.
+Hay muchos actores en el mundo financiero que buscan beneficiarse del miedo:
 
-Hacer nada parece fácil. Solo hay que tener la convicción profunda y la templanza para no “freakearse”. Cuando el mercado empiece a ser bajista, vas a empezar a escuchar gente que dice: “es el final, hay que vender porque esta vez es diferente, esta vez es el Apocalipsis”. El miedo empieza a fluir, el ruido aumenta. Nuestros amigos nos preguntan qué estamos haciendo, si escuchamos la última noticia, si estamos al tanto de que (inserte aquí la noticia mundial más escalofriante de la cual todo el mundo está hablando).
+- **Medios:** Predicen derrumbes o crean sensacionalismo para ganar clicks.  
+- **“Expertos” financieros:** Venden la ilusión de certeza en mercados inherentemente inciertos.  
 
-En ese momento, hacer nada de repente no es tan fácil. Nos tienta ceder al miedo de perderlo todo. ¿Y si es verdad que esta vez es diferente? ¿Y si pierdo los ahorros de toda mi vida? ¿Y si soy el único gil que se queda con papelitos de colores que no sirven para nada?
+**Recuerda:** El miedo vende, pero no debería guiar tus decisiones financieras.
 
-Ese es el instante en que tenemos que creer que somos los elegidos y parar las balas como Neo. Tenemos que tener una forma de atarnos al mástil del barco para no sucumbir al canto de las sirenas. Una forma de lograrlo es educándonos y haciéndole caso a los datos e información concretos de la realidad.
+---
 
-Es una realidad que el mercado de acciones, en el largo plazo, siempre sube de valor. Entonces, tenemos que tener una cartera de inversiones que tenga una proporción importante de acciones.
+### La solución: Invertir como Neo
 
-Es una realidad que una vez que tomamos en cuenta los costos extra de pagarle a alguien para que invierta nuestra plata, sólamente un porcentaje muy chico de “asesores” es capaz de darnos resultados por encima del promedio del mercado. Entonces, tenemos que encontrar vehículos de inversión que evite costos extra y nos devuelvan el retorno promedio del mercado.
+La buena noticia es que muchas veces **no hacer nada** es la mejor estrategia. Se necesita:
+
+1. **Convicción profunda:** Para resistir las bajas del mercado.  
+2. **Educación:** Basarse en datos y evitar decisiones emocionales.  
+3. **Templanza:** Para evitar caer en el miedo colectivo.
+
+Cuando el mercado baja y las noticias son alarmantes, es cuando más necesitamos creer que somos los elegidos, como Neo, y parar las balas con serenidad.
+
+---
+
+### Realidades de largo plazo
+
+- **El mercado sube a largo plazo:** Tener una cartera con una proporción importante en acciones es clave.  
+- **Minimizar costos:** Evita asesores costosos; opta por fondos índice de bajo costo para capturar el retorno promedio del mercado.
+
+---
+
+### Reflexión final
+
+Invertir como Neo no requiere habilidades sobrenaturales. Solo necesitas educación, datos claros, y la calma para enfrentar las bajas del mercado sin reaccionar de forma impulsiva.
+
+> **¿Qué te detiene para empezar a invertir de esta manera?**  
+> Si necesitas ayuda, no dudes en escribirme. Me encantaría guiarte.

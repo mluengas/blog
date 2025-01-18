@@ -1,5 +1,5 @@
 ---
-title: "El más grande servidor"
+title: "El más grande servidor."
 description: "Descubre cómo ser el más grande servidor puede transformar tus ingresos y ayudarte a prosperar en cualquier sistema económico."
 date: 2017-01-28
 tags: ["finanzas personales", "ingresos", "crecimiento personal", "servicio"]

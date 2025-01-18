@@ -1,11 +1,13 @@
 ---
-title: "El tiempo es un maní"
+title: "El tiempo es un maní."
 description: "Reflexión sobre cómo el tiempo y el dinero se entrelazan y cómo usar ambos para vivir plenamente."
 date: 2017-04-13
 tags: ["finanzas personales", "ahorro", "inversiones", "tiempo"]
 ---
 
-*Este es un artículo de mi blog anterior. Está escrito con "tú" en vez de "vos". Es porque quería convertirme en "ponzibro". Mirá mi rolex masivo.*
+*Este es un artículo de mi blog anterior. Está escrito con "tú" en vez de "vos". Es porque quería convertirme en "ponzibro". Mirá mi Rolex masivo.*
+
+---
 
 ## El dinero esclavo vs. el dinero esclavizante
 
@@ -15,34 +17,79 @@ Tener tiempo es lo que más me motivaba a estudiar también. Si me iba bien en l
 
 Con el tiempo, al darme cuenta cuán valioso era para mí, empecé a incorporar la variable tiempo en decisiones que tienen que ver con dinero.
 
+---
+
+### Transformar decisiones de dinero en tiempo
+
 Hay estudios que comprueban que transformar decisiones de dinero en decisiones de tiempo tiene beneficios sorprendentes. Pensar en términos de tiempo hace que la gente se involucre en actividades que promueven el bienestar, como socializar o ayudar como voluntario.
 
-Sin embargo, no te recomiendo que reemplaces la medida del dinero con el tiempo completamente porque podrías enfrentarte a diálogos como:
+Sin embargo, no te recomiendo reemplazar la medida del dinero con el tiempo completamente porque podrías enfrentarte a diálogos como:
 
-Tú: “¿Cuál es el precio de ese vino?  
-Vendedor: “100 pesos.”  
-Tú: “¡Guau! Cómo aumentan las cosas. Me acuerdo cuando costaba 13 minutos.”
+**Ejemplo:**
+- Tú: “¿Cuál es el precio de ese vino?”
+- Vendedor: “100 pesos.”
+- Tú: “¡Guau! Cómo aumentan las cosas. Me acuerdo cuando costaba 13 minutos.”
 
 No sé cuánto tiempo podría pasar hasta que te encierren en un manicomio, pero una vez que estés ahí, no habrá dinero que te saque.
 
-Bueno. Pero sólo con fines motivacionales te propongo que hagas este ejercicio cada tanto. Puedes hacerlo frente a una compra importante, o cuando estás planificando tus objetivos de ahorro.
+---
 
-Supongamos que por tu trabajo te pagan US$ 2.000 por mes y tienes que estar en una oficina nueve horas por día de lunes a viernes. Se requiere que estés desarrollando una actividad unos 9600 minutos por mes. Eso quiere decir que te pagan un poco más de 20 centavos de dólar el minuto. ¿Cuánto dinero necesitarías tener invertido para que todos los meses trabajes un minuto menos por mes?
+### Un ejercicio motivacional
 
-**Respuesta:** US$ 36
+Con fines motivacionales, te propongo este ejercicio. Puedes hacerlo frente a una compra importante o cuando planifiques tus objetivos de ahorro:
 
-Es decir, si tienes 36 dólares invertidos podrías decirle a tu jefe: “el último viernes de cada mes me voy a empezar a ir a mi casa a las 4:59 pm. en vez de a las 5:00 pm. Puedes descontarme ese minuto de mi salario”.
+**Ejemplo:**
+- Si te pagan US$ 2,000 por mes trabajando 9 horas al día, 5 días a la semana, estás trabajando 9,600 minutos al mes.  
+- Esto significa que ganas algo más de 20 centavos de dólar por minuto.
 
-Eso te puede parecer un chiste y en cierta manera lo es. Pero si comenzamos a hacer otros cálculos, la cosa se pone definitivamente más interesante.
+Ahora, ¿cuánto dinero necesitarías tener invertido para trabajar un minuto menos cada mes?
 
-Si destinas a invertir US$ 600 por mes, estás “comprando” 17 minutos por mes, para siempre. Si eres constante, después de dos años puedes pasar a trabajar 4 días a la semana en vez de 5. ¿Se te ocurren cosas que podrías hacer en ese “día libre extra”? ¿Qué tal si tus lunes fueran parte de tu fin de semana? ¿Tienes idea de lo que pasa un martes soleado de primavera a las 11 de la mañana en tu barrio?
+**Respuesta:** US$ 36.
 
-Pensemos cómo sería pensar desde el punto de vista del tiempo cuando estamos frente a la compra de algo considerable. Estás ante la decisión de comprar algo cuyo precio es de US$ 2.000. Estás ante la decisión de trabajar dos días y medio más por año, POR EL RESTO DE TU VIDA. Porque si ahorraras esa plata podrías dejar de trabajar 2 horas por mes. Al año, suman un poco menos de 24 horas, lo cual es igual a dos días y medio de trabajo, para siempre.
+> Con US$ 36 invertidos, podrías decirle a tu jefe:  
+> “El último viernes de cada mes me iré a las 4:59 p.m. en vez de a las 5:00 p.m. Puedes descontarme ese minuto de mi salario.”
 
-El tiempo es algo muy valioso porque es lo que tienes para hacer lo que te hace vivir plenamente. Tener tiempo te permite dedicarte a lo que te hace levantarte de la cama la primera vez que suena el despertador. Si estás buscando algo en la vida y sabes porqué lo estás buscando, necesitas tiempo para llevar a cabo tu plan. El uso sin consciencia del dinero o muy enraizado en la filosofía consumista del sistema económico en el que vivimos, puede llevarte a gastar dinero en cosas que en realidad te están esclavizando.
+---
 
-También te puede pasar que un trabajo tradicional (de lunes a viernes de 9 am. a 6 pm.) puede ser lo que te está esclavizando porque no te permite ahorrar, no te permite ganar lo suficiente para alcanzar tus objetivos o no te deja tiempo para eso que en realidad te motiva. Y sin darte cuenta, puedes estar acostumbrándote a que de eso se trata la vida.
+### Comprar tiempo a largo plazo
 
-La economía se está transformando muy rápidamente. La mayoría de los trabajos que se crean hoy por hoy son part-time o freelance. Con cada línea nueva de código que se escribe, se destruye un trabajo. Si tu trabajo lo puede hacer un robot, no te quepa la menor duda de que en un tiempo no muy lejano, tu trabajo no va a existir más. Es una realidad, la diferencia es si respondes a esa realidad o reaccionas.
+Si inviertes US$ 600 al mes, estás comprando 17 minutos menos de trabajo cada mes, para siempre. Si eres constante, después de dos años podrías pasar a trabajar 4 días a la semana en vez de 5.
 
-Que tu respuesta sea usar los recursos que tienes para dedicarle tiempo a aquello por lo que la gente te recordará positivamente cuando no estés más.
+- **¿Qué harías con ese día libre extra?**  
+- **¿Cómo sería tener un lunes libre?**  
+- **¿Qué pasa en tu barrio un martes soleado a las 11:00 a.m.?**
+
+---
+
+### El costo de las compras importantes
+
+Cuando estás frente a una compra significativa, como algo que cuesta US$ 2,000, piensa en estos términos:
+
+- **Costo en tiempo:** Estás eligiendo trabajar 2 días y medio más por año, **por el resto de tu vida.**
+- Si en lugar de gastar esos US$ 2,000, los invirtieras, podrías reducir tu trabajo en 2 horas al mes, lo que equivale a **2 días y medio menos de trabajo al año, para siempre.**
+
+---
+
+### Tiempo: el recurso más valioso
+
+El tiempo es lo que tienes para hacer lo que te hace vivir plenamente. Es el recurso que necesitas para:
+
+1. Dedicarte a aquello que te motiva.  
+2. Alcanzar tus metas personales y profesionales.
+
+Un uso inconsciente del dinero puede esclavizarte, llevándote a gastar en cosas que realmente no necesitas.
+
+---
+
+### El impacto de la tecnología y la economía actual
+
+La economía está cambiando rápidamente. Muchos trabajos tradicionales están siendo reemplazados por automatización y robots. Si tu trabajo puede ser realizado por un robot, no es cuestión de *si* desaparecerá, sino de *cuándo*.
+
+**Entonces, la pregunta es:**  
+¿Vas a reaccionar o vas a responder?
+
+---
+
+### Reflexión final
+
+Usa tus recursos sabiamente para dedicar tiempo a lo que realmente importa: aquello por lo que la gente te recordará positivamente cuando ya no estés.
