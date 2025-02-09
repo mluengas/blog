@@ -8,7 +8,7 @@ tags: ["Bolsa", "Análisis Técnico", "Correcciones del Mercado", "Trading"]
 ## ¿Puede la Historia Predecir el Futuro del Mercado?
 ### Análisis de Mike Webster sobre Correcciones y Precedentes Históricos
 
-![Stock Market Analysis](https://example.com/stock_market_image.jpg)
+![Stock Market Analysis]
 
 El reconocido analista de mercados **Mike Webster** de IBD realizó un profundo análisis sobre la reciente caída del mercado y si los precedentes históricos pueden ayudar a entender lo que podría venir. En este post, desglosamos su estudio y cómo puedes aplicarlo a tu propia estrategia de inversión.
 
