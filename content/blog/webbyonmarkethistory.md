@@ -2,21 +2,21 @@
 title: "Usando la Historia para Entender el Presente del Mercado"
 date: "2025-02-09"
 description: "Análisis de Mike Webster sobre correcciones del mercado y cómo los precedentes históricos pueden ayudar a entender futuros movimientos."
-tags: ["Bolsa", "Análisis Técnico", "Correcciones del Mercado", "Trading"]
+tags: ["Dirección del Mercado", "Trading", "Estrategia"]
 ---
 
 ## Usando la Historia para Entender el Presente del Mercado
 ### Análisis de Mike Webster sobre Correcciones y Precedentes Históricos
 
-El reconocido analista de mercados **Mike Webster** de IBD realizó un profundo análisis sobre la reciente caída del mercado y si los precedentes históricos pueden ayudar a entender lo que podría venir. En este post, desglosamos su estudio y cómo puedes aplicarlo a tu propia estrategia de inversión.
+El reconocido analista de mercados **Mike Webster** de IBD realizó un profundo análisis sobre la reciente caída del mercado y si los precedentes históricos pueden ayudar a entender lo que podría venir. En este post, desglosamos su estudio y cómo podés aplicarlo a tu propia estrategia de inversión.
 
 ---
 
 ## 🔍 **El Contexto: Ruptura del Mercado el 18 de Diciembre**
-El 18 de diciembre, el mercado sufrió una **caída abrupta** tras la conferencia de prensa de la Reserva Federal. Desde entonces, hemos visto un comportamiento **correctivo y volátil**.
+El 18 de diciembre pasado, el mercado sufrió una **caída abrupta** tras la conferencia de prensa de la Reserva Federal. El mercado reaccionó mal a la noticia de que la tasa de la FED sería recortada menos veces durante 2025. Desde entonces, hemos visto un comportamiento **correctivo y volátil**.
 
 ### 🌍 **El Objetivo del Análisis**
-Webster y su equipo analizaron momentos en el pasado donde:
+Webster y su equipo analizaron momentos en el pasado donde se dieron situaciones similares a lo que ocurrió el 18-dic:
 - **El mercado estaba en una tendencia alcista fuerte (Power Trend)**.
 - Hubo una **ruptura de al menos 2 ATRs (Average True Range)** en un solo día.
 - El índice se encontraba cerca de **máximos antes de la caída**.
@@ -72,7 +72,7 @@ Si bien algunos casos muestran **rebotes rápidos**, otros indican **correccione
 ---
 
 ### **🎥 Video de Mike Webster**
-Si deseas ver el análisis completo, aquí tienes el video original:
+Si querés ver el análisis completo, acá te dejo el video original:
 [![Ver en YouTube](https://img.youtube.com/vi/trLwAKbEOOg/0.jpg)](https://www.youtube.com/watch?v=trLwAKbEOOg)
 
 ---
