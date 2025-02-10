@@ -8,11 +8,11 @@ const eleventyNavigation = {
 
 "Fulan" es una palabra árabe que significa *persona cualquiera*.
 
-Es la raíz de "fulano de tal" que usamos en español para referirnos a alguien que no sabemos cómo se llama o es la representación de una generalidad.
+Es la raíz de "fulano de tal" que usamos en español para referirnos a alguien que no sabemos cómo se llama o cuando queremos generalizar.
 
-Soy una persona cualquiera. Y creo que también cualquier persona puede (y debe) tomar buenas decisiones acerca de su dinero.
+Soy una persona común. Tengo el objetivo de aprender a invertir mi dinero de tal forma que obtenga un retorno en el largo plazo que sea mayor al promedio del mercado.
 
-**Es imprescindible y urgente que los que generan riqueza tengan el conocimiento necesario para retener esa riqueza, multiplicarla y usarla como les de la gana en el futuro.**
+**Es muy importante que todos hagamos lo mismo.**
 
-Mi objetivo como un fulano es contribuir a que eso suceda.
+Mi objetivo como fulan es contribuir a que eso suceda.
 
