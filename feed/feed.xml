@@ -5,11 +5,21 @@
   <subtitle>Escribo sobre inversiones y finanzas personales.</subtitle>
   <link href="https://fulan.me/feed/feed.xml" rel="self" />
   <link href="https://fulan.me/" />
-  <updated>2025-02-10T00:00:00Z</updated>
+  <updated>2025-08-10T00:00:00Z</updated>
   <id>https://fulan.me/</id>
   <author>
     <name>Cosme Fulanito</name>
   </author>
+  <entry>
+    <title>Semana del 11 de agosto de 2025</title>
+    <link href="https://fulan.me/blog/11-ago/" />
+    <updated>2025-08-10T00:00:00Z</updated>
+    <id>https://fulan.me/blog/11-ago/</id>
+    <content type="html">&lt;h2 id=&quot;resumen-de-la-semana-4-ago-a-8-ago&quot;&gt;Resumen de la semana (4-ago a 8-ago)&lt;/h2&gt;
+&lt;h3 id=&quot;los-minimos-y-maximos-volvieron-a-estar-por-encima-de-la-ema-de-21-dias&quot;&gt;Los mínimos y máximos volvieron a estar por encima de la EMA de 21 días&lt;/h3&gt;
+&lt;p&gt;Después de haber terminado la semana anterior con una alarma sonando, el mercado mostró nuevamente la resiliencia y rapidez en la recuperación que mostró en abril. Parece que el mercado ya digirió las dudas que mostró la Reserva Federal y se muestra optimista frente a las noticias de los aranceles de Trump. El mal reporte de los puestos de trabajo en Estados Unidos parece dar lugar a una mayor chance de recorte de un cuarto de punto en la tasa de la FED.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>IBD 50 de la semana</title>
     <link href="https://fulan.me/blog/ibd5010feb25/" />
